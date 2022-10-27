@@ -10,4 +10,5 @@ public class CubeJsApplication {
 		SpringApplication.run(CubeJsApplication.class, args);
 	}
 	//test1
+	//test2
 }
